@@ -1,11 +1,8 @@
 ---
-title: Rental Mobil
+title: Penginapan
 image: /img/products-jumbotron.jpg
-heading: Rental mobil kami...
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+heading: Penginapan dan guest house
+description: Kami menawarkan penginapan dan guest house murah
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
@@ -35,19 +32,13 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: Kamar Standard dan Deluxe harga terjangkau
+  description: Kamar dan guest house kami adalah hargau terjangkau di jogja untuk
+    pelajar dan mahasiswa
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: GUEST HOUSE
+  description: GUEST HOUSE kami harga sangat terjangkau dan rasional untuk pelajar
+    mahasiswa dan karyawan
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -88,4 +79,3 @@ pricing:
       price: "?"
 type: products
 ---
-
