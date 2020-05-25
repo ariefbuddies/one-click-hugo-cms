@@ -1,11 +1,6 @@
 ---
 title: Rental Mobil
-image: img/fjimg_20191221_104723_1590363216544.jpg
 heading: Rental mobil
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
@@ -87,4 +82,9 @@ pricing:
       plan: Custom
       price: "?"
 type: products
+image: img/img_20181122_122550-02_1544694178831.jpg
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 ---
