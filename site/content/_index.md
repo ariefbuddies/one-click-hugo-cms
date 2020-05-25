@@ -3,11 +3,8 @@ title: Tanggung jawab
 subtitle: Demi sesruput kopi
 image: img/fjimg_20191221_104723_1590363216544.jpg
 blurb:
-  heading: Mengapa kuldi?
-  text: Kuldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Mengapa bening?
+  text: Jogjakarta adalah kota pariwisata
 intro:
   heading: Penawaran kami...
   text: Sejak tahun 2010 Bening Abadi Transport telah berkecimpung di bidang
