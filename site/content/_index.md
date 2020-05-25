@@ -1,7 +1,7 @@
 ---
 title: Tanggung jawab
 subtitle: Demi sesruput kopi
-image: /img/home-jumbotron.jpg
+image: img/fjimg_20191221_104723_1590363216544.jpg
 blurb:
   heading: Mengapa kuldi?
   text: Kuldi is the coffee store for everyone who believes that great coffee
