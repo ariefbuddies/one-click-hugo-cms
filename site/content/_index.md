@@ -4,9 +4,6 @@ subtitle: Demi sesruput kopi
 image: img/fjimg_20191221_104723_1590363216544.jpg
 blurb:
   heading: Mengapa bening?
-  text: Jogjakarta adalah kota pariwisata
-intro:
-  heading: Penawaran kami...
   text: Sejak tahun 2010 Bening Abadi Transport telah berkecimpung di bidang
     transportasi dan penginapan murah di Yogyakarta, dengan lokasi yang
     strategis berdekatan dengan kampus terkenal seperti UGM dan UNY Jogja. Sewa
@@ -18,6 +15,9 @@ intro:
     aplikasi Traveloka dengan harga yang lebih murah dan terjangkau untuk
     mahasiswa dan pelajar yogya. Semoga ke depan kami bisa memberikan pelayanan
     yang lebih baik kepada pelanggan pelanggan setia Bening Abadi Transport.👋
+intro:
+  heading: Penawaran kami...
+  text: Jogjakarta adalah kota pariwisata
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
@@ -36,4 +36,7 @@ values:
     one of colonialism and mindless abuse of natural resources and human lives.
     We want to turn this around and return the coffee trade to the drink’s
     exhilarating, empowering and unifying nature.
+Motor:
+  - image: img/about-sustainable-farming.jpg
+    text: motorrrrrrrrr
 ---
