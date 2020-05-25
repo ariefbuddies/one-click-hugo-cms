@@ -10,10 +10,17 @@ blurb:
     profits are reinvested in their communities.
 intro:
   heading: Penawaran kami...
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  text: Sejak tahun 2010 Bening Abadi Transport telah berkecimpung di bidang
+    transportasi dan penginapan murah di Yogyakarta, dengan lokasi yang
+    strategis berdekatan dengan kampus terkenal seperti UGM dan UNY Jogja. Sewa
+    motor, rental mobil, penginapan dan guest house adalah layanan utama kami di
+    kota yogya. Di awal tahun 2020 ini kami memulai dengan tambahan unit motor
+    baru seperti Honda Genio dan Honda Beat Street. Kami rental kan dengan harga
+    yang sangat terjangkau untuk kalangan mahasiswa jogja dan customer umum.
+    Untuk guest house kamar yang kami tawarkan juga bisa anda booking melalui
+    aplikasi Traveloka dengan harga yang lebih murah dan terjangkau untuk
+    mahasiswa dan pelajar yogya. Semoga ke depan kami bisa memberikan pelayanan
+    yang lebih baik kepada pelanggan pelanggan setia Bening Abadi Transport.👋
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
