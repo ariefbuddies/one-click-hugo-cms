@@ -1,6 +1,6 @@
 ---
 title: Sewa Motor
-image: /img/products-jumbotron.jpg
+image: img/fjimg_20191221_104723_1590363216544.jpg
 heading: Sewa Motor Jogja
 description: Sewa motor kami paling kompetitif di jogja
 intro:
