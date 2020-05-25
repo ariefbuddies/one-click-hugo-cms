@@ -1,7 +1,7 @@
 ---
 title: Tanggung jawab
 subtitle: Demi sesruput kopi
-image: img/fjimg_20191221_104723_1590363216544.jpg
+image: img/pano_20181122_122842_1545351352540.jpg
 blurb:
   heading: Mengapa bening?
   text: Sejak tahun 2010 Bening Abadi Transport telah berkecimpung di bidang
