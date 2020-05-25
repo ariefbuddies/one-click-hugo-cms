@@ -1,6 +1,6 @@
 ---
 title: Rental Mobil
-image: /img/products-jumbotron.jpg
+image: img/fjimg_20191221_104723_1590363216544.jpg
 heading: Rental mobil
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
@@ -88,4 +88,3 @@ pricing:
       price: "?"
 type: products
 ---
-
