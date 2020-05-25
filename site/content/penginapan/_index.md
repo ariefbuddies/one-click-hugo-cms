@@ -1,6 +1,6 @@
 ---
 title: Penginapan
-image: /img/products-jumbotron.jpg
+image: img/content-5a4df3448bb6d-1-650x450.jpg
 heading: Penginapan dan guest house
 description: Kami menawarkan penginapan dan guest house murah
 intro:
